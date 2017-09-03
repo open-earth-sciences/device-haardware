@@ -1,1 +1,1 @@
-### Descriptions, scripts and other code to create cases and other hardware for open-earth-sciences devices
+### Resources for managing machine configuration and instructions for creating OES parts.
